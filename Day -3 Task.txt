@@ -1,0 +1,29 @@
+1) Take input String from user
+   print output as reverse of input String. 
+   Eg: i/p: sai  o/p:ias
+
+2) Take 3 different strings as input and assign them in dictionary order
+
+
+3) Arrange the characters in the input String in ascending order and print the sorted string
+   Eg: i/p : sai   o/p: ais
+
+
+4) Find the frequency of the character 'p' in 'python bootcamp'
+
+
+5) Extract the username from the email given
+   i/p : saivarma844@gmail.com
+   o/p : saivarma844
+
+
+
+6)Find length of String with out using len() function?
+
+
+7) i/p : name = 'sai'
+         age  = 24
+
+
+   o/p : my name is sai and my age is 24
+
